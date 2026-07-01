@@ -1,0 +1,224 @@
+[
+  {
+    "id": "overview_what_is_kira",
+    "category": "Overview",
+    "title": "What is Kira AI",
+    "content": "Kira AI is an all-in-one AI productivity assistant and workspace. It combines AI chat, voice commands, an email agent, AI call agents, messaging integrations (WhatsApp, Telegram, Discord, iMessage), study tools, an AI app builder, QR tools, meeting notes, social media tools, memory, file storage, and business AI agents in one dashboard. It helps users chat, write, research, code, analyze files, manage email, automate tasks, connect apps, create content, and organize personal knowledge."
+  },
+  {
+    "id": "overview_features_list",
+    "category": "Overview",
+    "title": "Main features",
+    "content": "Kira AI features include: AI Chat (Q&A, file/image upload, research, writing), Voice Command, Email Agent (inbox, drafts, campaigns, analytics), AI Call Agents (inbound/outbound calls, appointments, sentiment analysis), messaging connect (WhatsApp/Telegram/Discord/iMessage), Homework/Study Assistant (flashcards, quizzes, study guides, mock exams), Vibe Coder (AI app builder), QR Codes & Links, Meetings (recording, transcripts, summaries, action items), Social Media tools, My Brain/Memory, My Files (cloud + Google Drive), AI business Agents, and a Help Center."
+  },
+  {
+    "id": "account_create",
+    "category": "Account",
+    "title": "Create an account and log in",
+    "content": "To create a Kira AI account, sign up with your email and a password (or a supported social/SSO option) on the Kira AI website or app, then log in with those credentials. After signing up you will receive a verification email to confirm your address before full access is enabled."
+  },
+  {
+    "id": "account_verify_email",
+    "category": "Account",
+    "title": "Email verification",
+    "content": "After signing up, Kira AI sends a verification link to your email. Click it to activate your account. If you didn't get the email, check your spam folder, make sure the address is spelled correctly, and use the 'resend verification' option. Links can expire, so request a fresh one if needed."
+  },
+  {
+    "id": "account_password_reset",
+    "category": "Account",
+    "title": "Reset or change password",
+    "content": "If you forgot your password, choose 'Forgot password' on the login screen and enter your account email to receive a reset link. To change a known password, go to account/security settings and update it there. Reset links are time-limited; request a new one if it expires."
+  },
+  {
+    "id": "account_delete",
+    "category": "Account",
+    "title": "Delete account and export data",
+    "content": "You can request account deletion from your account/privacy settings. Deletion removes your personal data per Kira AI's privacy policy. Before deleting, you can export your data (chats, files, memory) from the data/privacy settings. For help with deletion or export, contact support@kira.ai."
+  },
+  {
+    "id": "billing_plans",
+    "category": "Billing",
+    "title": "Subscription plans",
+    "content": "Kira AI offers a free tier plus paid subscription plans (such as Pro and higher/Enterprise tiers) that unlock more usage, advanced agents, and priority support. Pro users get 24/7 weekday support and in-app live chat. You can view and change your plan in billing settings. For enterprise pricing, contact sales@kira.ai."
+  },
+  {
+    "id": "billing_invoices_refunds",
+    "category": "Billing",
+    "title": "Invoices, refunds, and payment issues",
+    "content": "Invoices are available in your billing settings, where you can download receipts and update payment methods. For refund requests, billing disputes, or failed/duplicate charges, contact support@kira.ai with your account email and the invoice or transaction details. Refunds follow Kira AI's refund policy."
+  },
+  {
+    "id": "billing_cancel",
+    "category": "Billing",
+    "title": "Cancel or downgrade subscription",
+    "content": "You can cancel or downgrade your subscription anytime from billing settings. Cancellation stops future renewals; you keep paid features until the end of the current billing period. If you cancel by mistake or need help, contact support@kira.ai."
+  },
+  {
+    "id": "integrations_apps",
+    "category": "Integrations",
+    "title": "Connect Gmail, Google Drive, Notion, Slack, Teams, Zoom",
+    "content": "Kira AI connects to apps like Gmail, Google Drive, Notion, Slack, Microsoft Teams, and Zoom. Open the integrations/connections settings, pick the app, and authorize access via its secure sign-in (OAuth). Once connected, Kira can read/act on that service per the permissions you grant. You can disconnect an app anytime from the same settings."
+  },
+  {
+    "id": "integrations_messaging",
+    "category": "Integrations",
+    "title": "Connect WhatsApp, Telegram, iMessage, Discord",
+    "content": "You can connect messaging platforms so your Kira agent responds through WhatsApp, Telegram, iMessage, or Discord. In the messaging/connect settings, choose the platform and follow the linking steps (for Telegram this links a bot to your account). After linking, messages sent to that channel are handled by your Kira agent."
+  },
+  {
+    "id": "integrations_telegram",
+    "category": "Integrations",
+    "title": "Telegram bot setup",
+    "content": "To use Kira on Telegram, connect Telegram from the messaging settings and start a chat with the linked Kira bot. Send /start to begin a fresh session, then send text messages and the bot replies. Each session keeps short-term context for about an hour of activity; sending /start clears the conversation history."
+  },
+  {
+    "id": "chat_files_attachments",
+    "category": "Tools",
+    "title": "Using AI Chat, files, and attachments",
+    "content": "In AI Chat you can ask questions, research topics, write and edit content, and upload files or images as attachments for analysis. Supported uploads include common document and image types. Note: the Telegram bot currently handles text messages only — to upload files/images, use Kira AI Chat in the web or desktop app."
+  },
+  {
+    "id": "voice_command",
+    "category": "Tools",
+    "title": "Voice command",
+    "content": "Voice Command lets you speak requests and commands to Kira instead of typing. You can ask questions, trigger actions, and review your command history. Use it from the voice interface in the Kira app."
+  },
+  {
+    "id": "email_agent",
+    "category": "Tools",
+    "title": "Email Agent",
+    "content": "The Email Agent connects your mailbox to manage inboxes, draft and send replies, organize contacts, run campaigns and workflows, save drafts, and view analytics. Connect your email provider in settings, then let the agent triage and respond on your behalf with your approval."
+  },
+  {
+    "id": "call_agents",
+    "category": "Tools",
+    "title": "AI Call Agents",
+    "content": "AI Call Agents handle inbound and outbound phone calls: call campaigns, appointments, forms, templates, contact management, sentiment analysis, and lead distribution. You configure agents, scripts, and phone numbers, and review call outcomes and analytics in the dashboard."
+  },
+  {
+    "id": "homework_study",
+    "category": "Tools",
+    "title": "Homework / Study Assistant",
+    "content": "The Study Assistant helps students solve problems and create flashcards, quizzes, study guides, and mock exams. You can upload PDF, Word, Excel, PowerPoint, image, and text files for it to study from and generate materials."
+  },
+  {
+    "id": "vibe_coder",
+    "category": "Tools",
+    "title": "Vibe Coder (AI app builder)",
+    "content": "Vibe Coder is Kira's AI app builder: describe the app you want in plain English and Kira helps generate the code, layouts, and logic. Use it to prototype tools and apps without writing everything by hand."
+  },
+  {
+    "id": "qr_codes",
+    "category": "Tools",
+    "title": "QR codes and links",
+    "content": "Kira's QR tools create QR codes for websites, PDFs, business cards, videos, images, social pages, and other links. Generate a code, customize it, and download or share it."
+  },
+  {
+    "id": "meetings",
+    "category": "Tools",
+    "title": "Meetings",
+    "content": "The Meetings tool records meetings and generates live notes, transcripts, summaries, and action items. It integrates with Microsoft Teams, Google Meet, Zoom, and Slack so you can capture and follow up on discussions."
+  },
+  {
+    "id": "social_media",
+    "category": "Tools",
+    "title": "Social media tools",
+    "content": "Kira's social media tools support content videos, galleries, product showcases, influencer workflows, social publishing, linking Instagram and TikTok, and usage tracking, helping you create and publish content."
+  },
+  {
+    "id": "business_agents",
+    "category": "Tools",
+    "title": "AI business agents",
+    "content": "You can create business agent squads tailored to industries like restaurants, salons, clinics, dental practices, hotels, plumbers, and lawn care. These agents automate customer interactions and workflows for your business."
+  },
+  {
+    "id": "memory_brain",
+    "category": "Memory",
+    "title": "My Brain / Memory",
+    "content": "My Brain (Memory) stores and organizes what Kira learns about you into clusters such as work, preferences, people, projects, research, business, travel, food, and social media. This lets Kira give more personalized, context-aware help over time. You control what is remembered in memory/privacy settings."
+  },
+  {
+    "id": "memory_privacy",
+    "category": "Memory",
+    "title": "Memory settings, privacy, and data control",
+    "content": "You control your memory and data: review, edit, or delete stored memories and export your data from privacy/data settings. Kira handles personal data according to its privacy policy. For privacy or data-handling questions you can also contact support@kira.ai, or security@kira.ai for security and abuse concerns."
+  },
+  {
+    "id": "my_files",
+    "category": "Files",
+    "title": "My Files and storage",
+    "content": "My Files gives you cloud and local storage with folders for documents, images, and other files, plus a Google Drive connection and secure storage. Upload, organize, and reference your files across Kira's tools."
+  },
+  {
+    "id": "privacy_user_data_access_policy",
+    "category": "Privacy",
+    "title": "User data access policy",
+    "content": "According to Kira AI help content, users control their own chats, files, memory, integrations, and account data through account, privacy, data, and connection settings. For sensitive data-access or privacy-policy questions that are not clearly covered in help content, users should contact security@kira.ai or support@kira.ai instead of relying on a general chatbot answer."
+  },
+  {
+    "id": "privacy_support_file_access",
+    "category": "Privacy",
+    "title": "Support or sales access to private files",
+    "content": "Kira AI help content does not say that support or sales teams can browse a user's private files by default. Users should only share files, logs, screenshots, or account details with support when they intentionally choose to do so for troubleshooting. For concerns about staff access to private files or data, contact security@kira.ai."
+  },
+  {
+    "id": "privacy_oauth_permissions",
+    "category": "Privacy",
+    "title": "Gmail and Google Drive OAuth permissions",
+    "content": "When users connect Gmail or Google Drive, they authorize access through the provider's secure OAuth flow. Kira can only use the connected service according to the permissions granted by the user. Users can review or disconnect integrations from connection settings. If a user is unsure what a permission allows, they should review the provider consent screen or contact support@kira.ai before connecting."
+  },
+  {
+    "id": "privacy_telegram_session_isolation",
+    "category": "Privacy",
+    "title": "Telegram bot privacy and session isolation",
+    "content": "Kira AI's Telegram bot keeps short-term conversation context for the linked Telegram chat/session. Sending /start begins a fresh session and clears the current conversation history. A person who only has a bot link cannot see another user's previous conversation history through Telegram. For account-linking or privacy concerns, contact support@kira.ai or security@kira.ai."
+  },
+  {
+    "id": "privacy_call_recording_consent",
+    "category": "Privacy",
+    "title": "AI Call Agent recording consent and disclosure",
+    "content": "AI Call Agent recordings should be disclosed to call participants when recording is enabled, and users are responsible for following applicable recording-consent laws for their region and use case. If the help content does not specify a legal requirement, the bot should not guess; contact support@kira.ai for product setup questions or security@kira.ai for abuse concerns."
+  },
+  {
+    "id": "privacy_data_retention_deletion",
+    "category": "Privacy",
+    "title": "Data retention after account deletion",
+    "content": "Account deletion removes personal data according to Kira AI's privacy policy. Users can export chats, files, and memory before deletion from privacy/data settings. Exact retention windows, backups, legal holds, or compliance exceptions are not specified in this help content; users should contact support@kira.ai or security@kira.ai for those details."
+  },
+  {
+    "id": "privacy_memory_access",
+    "category": "Privacy",
+    "title": "Who can access My Brain / Memory",
+    "content": "My Brain / Memory is controlled by the account user. Users can review, edit, delete, and export memories from memory or privacy settings. Other users should not be able to view a user's saved memories through the support chatbot or Telegram bot. For suspected unauthorized access, contact security@kira.ai."
+  },
+  {
+    "id": "security_abuse_reporting_process",
+    "category": "Security",
+    "title": "Report security or data abuse issues",
+    "content": "Report security vulnerabilities, suspected unauthorized access, data abuse, or privacy incidents to security@kira.ai. Include what happened, the affected account or integration, timestamps, screenshots or logs if safe, and steps to reproduce. Do not send passwords, private API keys, or other secrets in the report."
+  },
+  {
+    "id": "api_access",
+    "category": "Developer",
+    "title": "API access, SDKs, webhooks, rate limits",
+    "content": "Kira AI offers API access with SDKs and webhooks for developers to integrate Kira into their own apps and automate workflows. API usage is subject to rate limits that depend on your plan. Find API keys, docs, and webhook configuration in the developer/API settings. For enterprise API needs, contact sales@kira.ai."
+  },
+  {
+    "id": "troubleshoot_slow_missing",
+    "category": "Troubleshooting",
+    "title": "Slow responses, missing chats, or crashes",
+    "content": "If Kira is slow, missing chats, or crashing: refresh or restart the app, check your internet connection, clear the app cache or update to the latest version, and try again. Missing chats may be a sync delay — wait a moment and reload. If the problem persists, report it to support@kira.ai with details (what you did, when, device/app version) so the team can investigate."
+  },
+  {
+    "id": "troubleshoot_bug_report",
+    "category": "Troubleshooting",
+    "title": "Report a bug",
+    "content": "To report a bug, contact support@kira.ai (or in-app support) with a clear description, the steps to reproduce it, what you expected, what happened, and your device/app version. Screenshots help. Pro users get priority support response."
+  },
+  {
+    "id": "contact_support",
+    "category": "Contact",
+    "title": "Contact support and other teams",
+    "content": "Reach Kira AI by email: general support at support@kira.ai, sales/enterprise at sales@kira.ai, security/abuse at security@kira.ai, and press/media at press@kira.ai. The community is at community.kira.ai. Live chat is available in-app, and Pro users get 24/7 weekday support."
+  }
+]
